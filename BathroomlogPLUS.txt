@@ -1,0 +1,22 @@
+"Name", "Time in", "Time out", "Took pass"
+"Lazaro", "12:30", "12:35", False
+"Lazaro", "12:38", "12:42", True
+"Eric", "1:00", "1:03", True
+"Samuel", "1:30", "1:36", False
+"Ashley", "1:37", "1:40", True
+"Casidy", "1:42", "1:47", True
+"Ben", "1:48", "1:51", False
+"Sion", "1:59", "2:00", True
+"Enrico", "2:02", "2:10", False
+"Micah", "2:15", "2:18", True
+"Eric", "2:18", 2:22", True
+"Ben", "2:22", "2:25", True
+"Gavin", "2:27", "2:30", False
+"Leo Claude Geppert", "2:33", "2:38", True
+"Casidy", "2:40", "2:43", True
+"Ashley", "2:44", "2:48", False
+"Enrico", "2:49", "3:10", True
+"Lazaro", "3:15", 3:20", True
+"Lazaro", "3:21", "3:22", True
+"Lazaro", "3:24", "3:34", False
+"Leo Claude Geppert", "3:34", "3:40", False
